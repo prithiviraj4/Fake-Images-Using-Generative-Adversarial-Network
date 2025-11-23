@@ -6,8 +6,6 @@
 
 Generate realistic human face images using DCGAN and StyleGAN models in Python with Keras and TensorFlow.
 
-![Generated Faces][1]
-
 ## Features
 
 - Train a DCGAN or StyleGAN on custom face datasets.
@@ -64,5 +62,5 @@ import numpy as np
 ## Outputs
 
 - Example of generated faces:  
-  ![Faces Output][1]
+  
 - Training progress and losses are auto-plotted.

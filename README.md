@@ -62,5 +62,5 @@ import numpy as np
 ## Outputs
 
 - Example of generated faces:  
-  
+  https://github.com/prithiviraj4/Fake-Images-Using-Generative-Adversarial-Network/blob/main/IO/Style_GAN_GIf.gif
 - Training progress and losses are auto-plotted.

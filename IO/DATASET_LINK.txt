@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data
+
+https://github.com/longluu/DL-styleGAN-faceForVisualExperiment
+
+https://towardsdatascience.com/fake-face-generator-using-dcgan-model-ae9322ccfd65
+
